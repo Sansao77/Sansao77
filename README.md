@@ -14,13 +14,13 @@
       srcset="https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true&theme=tokyonight"
       media="(preferes-color-scheme: tokyonight)"
       >
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true&theme=tokyonight&hide_rank=true&&locale=pt-br">
   </picture>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant&theme=dracula"
       media="(preferes-color-scheme: dracula)"
       >
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant&show_icons=true&theme=dracula&layout=donut&hide_border=true&langs_count=8">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant&show_icons=true&theme=dracula&layout=donut&hide_border=true&langs_count=6">
   </picture>
 </div>
