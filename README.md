@@ -1,13 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-### Sobre mim:
+## Sobre mim:
 <!--
   ![status de GaPSant no Github](https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true)
   [![Cartão ReadME](https://github-readme-stats.vercel.app/api/pin/?username=GabPSant&repo=public-GabPSant)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant)](https://github.com/GabPSant?tab=repositories)
 -->
-**No momento estou praticando com JavaScript, mas tenho maior familiaridade com Java. Podem ficar a vontade para olhar meus repositórios.**
+- **No momento estou praticando com JavaScript, mas tenho maior familiaridade com Java. Podem ficar a vontade para olhar meus repositórios.**
 <div>
   <picture>
     <source 
