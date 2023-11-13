@@ -9,8 +9,8 @@
 -->
 - 👋 Hi, I'm @GabPSant
 - 🎓 Currently I'm a student from the Pernambuco Polytechnic School [(POLI/UPE)](https://www.instagram.com/poli_upe/) in Brazil
-- 🌱 In the moment, I'am studying Front-End development in the [Softex](https://github.com/GabPSant/Softex)
-- 📫 You can reach by the e-mail: gabrielp_santos@hotmail.com
+- 🌱 In the moment, I'm studying Front-End development in the [Softex](https://github.com/GabPSant/Softex)
+- 📫 You can reach by the email: gabrielp_santos@hotmail.com
 
 ## 💾 My Skills/ Tech Stack
 
