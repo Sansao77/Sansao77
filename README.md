@@ -25,28 +25,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'>
   <img align="center" alt="Git" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
-
- 
 </div>
 
 ## Github Stats
-
-<div>
-  <picture width=50%>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true&theme=tokyonight"
-      media="(preferes-color-scheme: tokyonight)"
-      >
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true&theme=tokyonight&hide_rank=true&&locale=pt-br">
-  </picture>
-  <picture width=40%>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant&theme=dracula"
-      media="(preferes-color-scheme: dracula)"
-      >
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant&show_icons=true&theme=dracula&layout=donut&hide_border=true">
-  </picture>
-</div>
+  <div style="display: flex">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true&theme=tokyonight&hide_rank=true&&locale=pt-br"/>
+      <img width="45%" height="218px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant&show_icons=true&theme=dracula&layout=donut&hide_border=true"/>
+  </div>
 
 ## Social Links
 
