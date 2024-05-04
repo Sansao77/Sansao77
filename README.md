@@ -1,4 +1,4 @@
-# Welcome 🧐
+# Good Morning, Good Afternoon and Good Evening 🧐
 
 ## About me:
 <!--
@@ -9,7 +9,7 @@
 -->
 - 👋 Hi, I'm @Sansao77
 - 🎓 Currently I'm a student from the Pernambuco Polytechnic School [(POLI/UPE)](https://www.instagram.com/poli_upe/) in Brazil
-- 🌱 In the moment, I'm studying Front-End development in the [Softex](https://github.com/GabPSant/Softex)
+- 🌱 In the moment, I have more knowlegde as a Front-End developer (HTML+CSS+JS, ReactJS, NextJS).
 - 📫 You can reach by the email: gabrielp_santos@hotmail.com
 
 ## 💾 My Skills/ Tech Stack
@@ -23,7 +23,8 @@
   <img align="center" alt="NodeJs" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Bootstrap" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'/>
+  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="BootstrapCSS" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg'/>
   <img align="center" alt="Git" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'/>
 </div>
 
