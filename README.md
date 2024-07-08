@@ -1,18 +1,20 @@
-# Good Morning, Good Afternoon and Good Evening 🧐
+# Bom dia, Boa tarde e Boa noite! 🧐
 
-## About me:
+## Sobre mim:
 <!--
   ![status de GaPSant no Github](https://github-readme-stats.vercel.app/api?username=GabPSant&show_icons=true)
   [![Cartão ReadME](https://github-readme-stats.vercel.app/api/pin/?username=GabPSant&repo=public-GabPSant)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant)](https://github.com/GabPSant?tab=repositories)
 -->
-- 👋 Hi, I'm @Sansao77
-- 🎓 Currently I'm a student from the Pernambuco Polytechnic School [(POLI/UPE)](https://www.instagram.com/poli_upe/) in Brazil
-- 🌱 In the moment, I have more knowlegde as a Front-End developer (HTML+CSS+JS, ReactJS, NextJS).
-- 📫 You can reach by the email: gabrielp_santos@hotmail.com
+- 👋 Oi, sou @Sansao77.
+- 🎓 Atualmente sou um estudadente da Universidade de Pernambuco [(POLI/UPE)](https://www.instagram.com/poli_upe/) no Brasil.
+- 🤠 No momento, tenho mais experiência com tecnologias Front-End para desenvolvimento web (HTML+CSS+JS, ReactJS, NextJS).
+- 🌱 Tenho interesse em diversas áreas de desenvolvimento de software como Back-End, DevOps e GameDev.
+  - No momento desejo me torna um desenvolvedor Full Stack
+- 📫 Podem se comunicar comigo por e-mail: gabrielp_santos@hotmail.com
 
-## 💾 My Skills/ Tech Stack
+## 💾 Minhas Habilidades / Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
