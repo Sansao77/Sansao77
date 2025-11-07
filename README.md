@@ -8,8 +8,8 @@
   [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabPSant)](https://github.com/GabPSant?tab=repositories)
 -->
 - 👋 Oi, sou @Sansao77.
-- 🎓 Atualmente sou um estudadente da Universidade de Pernambuco [(POLI/UPE)](https://www.instagram.com/poli_upe/) no Brasil.
-- 🤠 No momento, tenho mais experiência com tecnologias Front-End para desenvolvimento web (HTML+CSS+JS, ReactJS, NextJS, AngularJS, VueJS).
+- 🎓 Atualmente sou um estudante da Universidade de Pernambuco [(POLI/UPE)](https://www.instagram.com/poli_upe/) no Brasil.
+- 🤠 Tenho mais experiência com tecnologias Front-End para desenvolvimento web (HTML+CSS+JS, ReactJS, NextJS, AngularJS, VueJS).
 - 🌱 Tenho interesse em diversas áreas de desenvolvimento de software como Back-End, DevOps e GameDev.
   - No momento desejo me tornar um desenvolvedor Full Stack
 - 📫 Podem se comunicar comigo por e-mail: gabrielp_santos@hotmail.com
